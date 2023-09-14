@@ -1,4 +1,4 @@
-import Zombie from '../class/zombie';
+import Zombie from '../class/Zombie';
 
 test('levelUp health=100', () => {
   const hero = new Zombie('Character');
